@@ -7,7 +7,7 @@
   "source": "@site/i18n/fr/docusaurus-plugin-content-docs/current/intro.md",
   "sourceDirName": ".",
   "slug": "/intro",
-  "permalink": "/fr/docs/intro",
+  "permalink": "/wiki/fr/docs/intro",
   "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/intro.md",
   "tags": [],
   "version": "current",
@@ -18,6 +18,6 @@
   "sidebar": "tutorialSidebar",
   "next": {
     "title": "Create a Page",
-    "permalink": "/fr/docs/tutorial-basics/create-a-page"
+    "permalink": "/wiki/fr/docs/tutorial-basics/create-a-page"
   }
 }

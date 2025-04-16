@@ -1,5 +1,5 @@
 {
-  "permalink": "/fr/blog/mdx-blog-post",
+  "permalink": "/wiki/fr/blog/mdx-blog-post",
   "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/blog/blog/2021-08-01-mdx-blog-post.mdx",
   "source": "@site/blog/2021-08-01-mdx-blog-post.mdx",
   "title": "MDX Blog Post",
@@ -9,7 +9,7 @@
   "tags": [
     {
       "label": "docusaurus",
-      "permalink": "/fr/blog/tags/docusaurus"
+      "permalink": "/wiki/fr/blog/tags/docusaurus"
     }
   ],
   "readingTime": 0.175,
@@ -25,10 +25,10 @@
   ],
   "prevItem": {
     "title": "Welcome",
-    "permalink": "/fr/blog/welcome"
+    "permalink": "/wiki/fr/blog/welcome"
   },
   "nextItem": {
     "title": "Long Blog Post",
-    "permalink": "/fr/blog/long-blog-post"
+    "permalink": "/wiki/fr/blog/long-blog-post"
   }
 }

@@ -11,7 +11,7 @@
       {
         "type": "link",
         "label": "Tutorial Intro",
-        "href": "/fr/docs/intro"
+        "href": "/wiki/fr/docs/intro"
       },
       {
         "type": "category",
@@ -20,32 +20,32 @@
           {
             "type": "link",
             "label": "Create a Page",
-            "href": "/fr/docs/tutorial-basics/create-a-page"
+            "href": "/wiki/fr/docs/tutorial-basics/create-a-page"
           },
           {
             "type": "link",
             "label": "Créer un document",
-            "href": "/fr/docs/tutorial-basics/create-a-document"
+            "href": "/wiki/fr/docs/tutorial-basics/create-a-document"
           },
           {
             "type": "link",
             "label": "Create a Blog Post",
-            "href": "/fr/docs/tutorial-basics/create-a-blog-post"
+            "href": "/wiki/fr/docs/tutorial-basics/create-a-blog-post"
           },
           {
             "type": "link",
             "label": "Markdown Features",
-            "href": "/fr/docs/tutorial-basics/markdown-features"
+            "href": "/wiki/fr/docs/tutorial-basics/markdown-features"
           },
           {
             "type": "link",
             "label": "Deploy your site",
-            "href": "/fr/docs/tutorial-basics/deploy-your-site"
+            "href": "/wiki/fr/docs/tutorial-basics/deploy-your-site"
           },
           {
             "type": "link",
             "label": "Congratulations!",
-            "href": "/fr/docs/tutorial-basics/congratulations"
+            "href": "/wiki/fr/docs/tutorial-basics/congratulations"
           }
         ],
         "collapsed": true,
@@ -58,12 +58,12 @@
           {
             "type": "link",
             "label": "Manage Docs Versions",
-            "href": "/fr/docs/tutorial-extras/manage-docs-versions"
+            "href": "/wiki/fr/docs/tutorial-extras/manage-docs-versions"
           },
           {
             "type": "link",
             "label": "Translate your site",
-            "href": "/fr/docs/tutorial-extras/translate-your-site"
+            "href": "/wiki/fr/docs/tutorial-extras/translate-your-site"
           }
         ],
         "collapsed": true,

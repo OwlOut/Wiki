@@ -1,13 +1,11 @@
 export default {
   "title": "My Site",
   "tagline": "Dinosaurs are cool",
-  "url": "https://your-docusaurus-test-site.com",
-  "baseUrl": "/fr/",
-  "onBrokenLinks": "throw",
-  "onBrokenMarkdownLinks": "warn",
-  "favicon": "img/favicon.ico",
-  "organizationName": "facebook",
-  "projectName": "docusaurus",
+  "url": "https://owlout.github.io",
+  "baseUrl": "/wiki/fr/",
+  "organizationName": "owlout",
+  "projectName": "wiki",
+  "trailingSlash": false,
   "presets": [
     [
       "@docusaurus/preset-classic",
@@ -333,6 +331,8 @@ export default {
     }
   },
   "baseUrlIssueBanner": true,
+  "onBrokenLinks": "throw",
+  "onBrokenMarkdownLinks": "warn",
   "onDuplicateRoutes": "warn",
   "customFields": {},
   "plugins": [],

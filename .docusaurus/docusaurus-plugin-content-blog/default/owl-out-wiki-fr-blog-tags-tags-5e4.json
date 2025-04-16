@@ -1,0 +1,30 @@
+{
+  "/OwlOut/Wiki/fr/blog/tags/facebook": {
+    "allTagsPath": "/OwlOut/Wiki/fr/blog/tags",
+    "slug": "/OwlOut/Wiki/fr/blog/tags/facebook",
+    "name": "facebook",
+    "count": 1,
+    "permalink": "/OwlOut/Wiki/fr/blog/tags/facebook"
+  },
+  "/OwlOut/Wiki/fr/blog/tags/hello": {
+    "allTagsPath": "/OwlOut/Wiki/fr/blog/tags",
+    "slug": "/OwlOut/Wiki/fr/blog/tags/hello",
+    "name": "hello",
+    "count": 2,
+    "permalink": "/OwlOut/Wiki/fr/blog/tags/hello"
+  },
+  "/OwlOut/Wiki/fr/blog/tags/docusaurus": {
+    "allTagsPath": "/OwlOut/Wiki/fr/blog/tags",
+    "slug": "/OwlOut/Wiki/fr/blog/tags/docusaurus",
+    "name": "docusaurus",
+    "count": 4,
+    "permalink": "/OwlOut/Wiki/fr/blog/tags/docusaurus"
+  },
+  "/OwlOut/Wiki/fr/blog/tags/hola": {
+    "allTagsPath": "/OwlOut/Wiki/fr/blog/tags",
+    "slug": "/OwlOut/Wiki/fr/blog/tags/hola",
+    "name": "hola",
+    "count": 1,
+    "permalink": "/OwlOut/Wiki/fr/blog/tags/hola"
+  }
+}

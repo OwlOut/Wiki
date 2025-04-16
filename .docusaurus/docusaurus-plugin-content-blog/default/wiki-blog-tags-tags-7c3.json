@@ -1,0 +1,30 @@
+{
+  "/Wiki/blog/tags/facebook": {
+    "allTagsPath": "/Wiki/blog/tags",
+    "slug": "/Wiki/blog/tags/facebook",
+    "name": "facebook",
+    "count": 1,
+    "permalink": "/Wiki/blog/tags/facebook"
+  },
+  "/Wiki/blog/tags/hello": {
+    "allTagsPath": "/Wiki/blog/tags",
+    "slug": "/Wiki/blog/tags/hello",
+    "name": "hello",
+    "count": 2,
+    "permalink": "/Wiki/blog/tags/hello"
+  },
+  "/Wiki/blog/tags/docusaurus": {
+    "allTagsPath": "/Wiki/blog/tags",
+    "slug": "/Wiki/blog/tags/docusaurus",
+    "name": "docusaurus",
+    "count": 4,
+    "permalink": "/Wiki/blog/tags/docusaurus"
+  },
+  "/Wiki/blog/tags/hola": {
+    "allTagsPath": "/Wiki/blog/tags",
+    "slug": "/Wiki/blog/tags/hola",
+    "name": "hola",
+    "count": 1,
+    "permalink": "/Wiki/blog/tags/hola"
+  }
+}
