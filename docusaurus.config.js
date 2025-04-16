@@ -9,7 +9,6 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
   baseUrl: '/Wiki/',
   organizationName: 'OwlOut',
   projectName: 'Wiki',
-  deploymentBranch: 'gh-pages',
   trailingSlash: false,
 
 
