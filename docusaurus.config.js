@@ -100,7 +100,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
                 to: '/blog',
               },
               {
-                label: 'GitHub',
+                label: 'GitHubb',
                 href: 'https://github.com/facebook/docusaurus',
               },
             ],
