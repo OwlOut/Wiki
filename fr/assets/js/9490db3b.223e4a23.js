@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkowl_wiki=self.webpackChunkowl_wiki||[]).push([[934],{6129:l=>{l.exports=JSON.parse('{"allTagsPath":"/Wiki/fr/blog/tags","slug":"/Wiki/fr/blog/tags/hello","name":"hello","count":2,"permalink":"/Wiki/fr/blog/tags/hello"}')}}]);
