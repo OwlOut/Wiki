@@ -1,0 +1,27 @@
+{
+  "unversionedId": "tutorial-basics/create-a-document",
+  "id": "tutorial-basics/create-a-document",
+  "isDocsHomePage": false,
+  "title": "Créer un document",
+  "description": "Les documents sont des groupes de pages reliées entre elles via :",
+  "source": "@site/i18n/fr/docusaurus-plugin-content-docs/current/tutorial-basics/create-a-document.md",
+  "sourceDirName": "tutorial-basics",
+  "slug": "/tutorial-basics/create-a-document",
+  "permalink": "/fr/docs/tutorial-basics/create-a-document",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/tutorial-basics/create-a-document.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Create a Page",
+    "permalink": "/fr/docs/tutorial-basics/create-a-page"
+  },
+  "next": {
+    "title": "Create a Blog Post",
+    "permalink": "/fr/docs/tutorial-basics/create-a-blog-post"
+  }
+}
